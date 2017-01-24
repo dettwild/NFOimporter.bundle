@@ -1,4 +1,4 @@
-XMLnfoImporter.bundle-for-Plex
+NFOimporter.bundle-for-Plex
 =====================================
 The agent is supposed to import metadata from a LOCAL *.nfo file (xml format).
 It can be installed by copying the bundle to the Plug-Ins folder.
